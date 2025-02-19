@@ -1,0 +1,10 @@
+Un proyecto laboral en el cual consistia en como hacer para que los empleado realizaran su marcaje de ingreso a la empresa.
+
+1. Idear la manera correcta para tener la informacioón
+2. Establecer la hora de ingreso
+3. Contabilizar los empleados por departamento
+4. Realizar el programa para marcaje
+5. Introducir la informacion
+6. Realizar pruebas
+7. Instalarlo
+8. Registrar a cada empleado
